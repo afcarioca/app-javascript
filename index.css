@@ -1,0 +1,78 @@
+h1{
+    width: 5em;
+    font-size: 3em;
+    font-weight: bold;
+    margin: 2rem auto;
+}
+
+
+.formulario .inputs {
+    margin-left: 5em;
+
+}
+input:focus{
+    border-color:#0275d8;
+    outline: none;
+
+
+
+}
+.data h2{
+    
+    font-weight: bold;
+
+}
+
+.data .input-data{
+    margin: 1em 0;
+    width: 20%;
+    padding: 0.5em;
+    border-radius: 0.5em;
+    
+}
+.bototes {
+    display: inline;
+}
+
+.botoes .botao{
+    width: 5%;
+    padding: 1em;
+    background-color:#0275d8;
+    border-radius: 0.5em;
+    color: #FFF;
+    font-weight: bold;
+    outline: none;
+    margin-top: 2em;
+
+}
+#apaga-ultima{
+    position: absolute;
+    margin-bottom: 1em;
+    margin-left: 0.4em;
+    padding: 0.45em;
+
+
+}
+
+#apaga-tudo{
+    position: absolute;
+    margin-bottom: 1em;
+    margin-left: 7.5em;
+    padding: 0.45em;
+
+
+}
+.importacoes{
+    margin: 3em 5em;
+}
+.importacoes th{
+    width: 20em;
+    border: solid 0.1em black;
+
+}
+
+.importacoes td{
+    border: solid 0.1em black;
+
+}
+
